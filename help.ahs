@@ -1,0 +1,14 @@
+  [inf] functions that are supported:
+  (1) fibonacci - type 'fib' and then input number of times
+  (2)
+
+  [inf] to import custom data to plot, do this:
+  (1) put your data in a file
+  (2) each result in a seperate line
+  (3) put the file in the same directory as the program
+  (4) type 'import' then type in the correct name of your file
+  (5) use a linux distro incase of encoding errors
+
+  [inf] type 'plot line' to generate a continuous histogram
+  [inf] type 'plot vertex' to generate a discrete histogram
+  [inf] type 'end' to exit the program properly
